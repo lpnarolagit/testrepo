@@ -19,3 +19,4 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // silence is golden 12
+// some new feature edits from staging branch
