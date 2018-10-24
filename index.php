@@ -1,5 +1,5 @@
 <?php
-//comment added from manster branch
+//comment added from master branch
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
@@ -18,3 +18,4 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // silence is golden 12
+// this line is added from the master branch
