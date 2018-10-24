@@ -1,4 +1,5 @@
 <?php
+// This is another comment from staging branch
 //comment added from manster branch
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
