@@ -20,3 +20,5 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // silence is golden 12
 // some new feature edits from staging branch
+
+// already started with issue 53 to fix. using iss53 branch
