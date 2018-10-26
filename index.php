@@ -21,3 +21,6 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 // this line is added from the master branch
 
 // started with hot fix in between
+
+// Now in the middle of the hot fix
+// and this is almost the fix with hotfix
