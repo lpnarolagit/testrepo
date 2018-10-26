@@ -24,3 +24,5 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // Now in the middle of the hot fix
 // and this is almost the fix with hotfix
+
+// checked and completed with hotfix and now ready to merge on master
