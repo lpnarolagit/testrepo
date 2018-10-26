@@ -19,3 +19,5 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // silence is golden 12
 // this line is added from the master branch
+
+// started with hot fix in between
