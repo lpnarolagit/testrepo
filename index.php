@@ -22,3 +22,6 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 // some new feature edits from staging branch
 
 // already started with issue 53 to fix. using iss53 branch
+// there are lot of stuffs has been done on the issue 53
+
+// now I am about to finish the issue 53
